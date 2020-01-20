@@ -1,0 +1,1 @@
+ gcc -o main main.c `sdl-config --cflags --libs` -lSDL_mixer -lSDL_ttf
